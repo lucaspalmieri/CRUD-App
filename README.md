@@ -14,7 +14,7 @@ This project is a study of React Hooks check [Build a CRUD App in React with Hoo
 Run
 
 ```bash
-npm start
+npm install
 ```
 
 then
